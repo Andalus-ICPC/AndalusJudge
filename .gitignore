@@ -1,0 +1,13 @@
+# folder
+upload_file
+
+# input, output files and others
+
+*.in
+*.out
+*.ans
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.txt
